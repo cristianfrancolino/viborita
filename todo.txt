@@ -1,0 +1,4 @@
+- La manzana no debe aparecer encima de la serpiente.
+- Si la serpiente se choca debe morir.
+- Diseñar una pantalla de inicio (utilizarla también para gameover)
+- 
